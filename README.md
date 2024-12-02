@@ -48,3 +48,7 @@ La cuenta ya la tenía creada ya que también se usa en otros módulos del ciclo
 12. Redactamos el archivo con los pasos a seguir para la elaboración del repositorio y pinchamos "Commit changes":
 
 ![Texto a mostrar si la imagen falla](./images/12.png)
+
+13. El resultado final es que el contenido de esta guía se muestra en la página principal del repositorio:
+
+![Texto a mostrar si la imagen falla](./images/13.png)
